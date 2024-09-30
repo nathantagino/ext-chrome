@@ -1,7 +1,0 @@
--> No navegador Google Chrome, acesse: chrome://extensions/
-
--> Clique em "Carregar sem compactação"
-
--> Adicione a extensão descompacta
-
--> Pronto, a extensão foi adicionada ao navegador
