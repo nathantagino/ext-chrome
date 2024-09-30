@@ -10,3 +10,6 @@ Minha primeira extensão para o navegador chrome, focada para a segurança WEB
 -> Adicione a extensão descompacta
 
 -> Pronto, a extensão foi adicionada ao navegador
+
+#observações
+necessário extrair a pasta imagens 
